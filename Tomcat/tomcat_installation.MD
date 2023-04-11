@@ -33,7 +33,7 @@ access tomcat application from browser on port 8080
    ```sh
  cd /opt/apache-tomcat-<version>/conf
 # update port number in the "connecter port" field in server.xml
-# restart tomcat after configuration update
+# restart tomcat after configuration update..
 tomcatdown
 tomcatup
 ```
