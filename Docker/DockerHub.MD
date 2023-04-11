@@ -25,7 +25,7 @@ docker tag ubuntu:latest valaxy/ubuntu:demo
 
 5. login to your docker hub registry 
 ``sh
-docker login
+docker login.
 ```
 6. docker push valaxy/ubuntu:demo
 ```
